@@ -1,0 +1,10 @@
+D:\FCAIHU\2021-2022\Computer Graphics\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\FCAIHU\2021-2022\Computer Graphics\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\FCAIHU\2021-2022\Computer Graphics\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\FCAIHU\2021-2022\Computer Graphics\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\FCAIHU\2021-2022\Computer Graphics\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\FCAIHU\2021-2022\Computer Graphics\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\FCAIHU\2021-2022\Computer Graphics\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\FCAIHU\2021-2022\Computer Graphics\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\FCAIHU\2021-2022\Computer Graphics\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\FCAIHU\2021-2022\Computer Graphics\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GraphicsPackage.resources
